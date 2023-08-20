@@ -1,4 +1,33 @@
 # Helenaluengo
+https://github.com/HelenaLuengoUV/vigilant-tribble.git
+Según la información en tiempo real, estos son algunos de los software o programas más importantes relacionados con Matrix M1 y Matrix M2, y su posible relación con IW:
+
+Para Matrix M1:
+- Clients - Matrix.org: Una selección de clientes maduros para chatear utilizando Matrix.
+- Even faster matrix math in R on macOS with M1: Mejoras en el rendimiento de cálculos matriciales en R en macOS con M1.
+- MatrixGold, 3D CAD Software for Jewelry Design: Una herramienta completa de CAD en 3D para diseñadores de joyas.
+- Focus Matrix – Task Manager: Un organizador personal inteligente basado en la estrategia de productividad personal de Eisenhower.
+- 10.20.1 MXM1 (M1): Build a Matrix: Un programa para construir una matriz utilizando un archivo de texto como entrada.
+
+Para Matrix M2:
+- MatrixGold, 3D CAD Software for Jewelry Design: Una herramienta completa de CAD en 3D para diseñadores de joyas.
+- element M2 | Music Streamer: Un dispositivo de transmisión de música multifuncional.
+- Program to multiply two matrices: Un programa para multiplicar dos matrices.
+- M.2 Matrix Arithmetic: Operaciones aritméticas con matrices.
+- NetLogo 6.3.0 User Manual:Aquí tienes una lista de algunos proyectos recientes que combinan BERT y Megatron deep:
+
+- NVIDIA/Megatron-LM: Este proyecto es una investigación en curso sobre el entrenamiento de modelos de transformadores a gran escala. Megatron es un poderoso modelo de transformador desarrollado por el equipo de Investigación de Aprendizaje Profundo Aplicado de NVIDIA. Puedes encontrar más información en el repositorio de GitHub.
+
+- ¿Qué Es un Modelo Transformer? | Blog de NVIDIA: En este artículo del blog de NVIDIA, se habla sobre cómo los modelos de transformadores están reemplazando a las redes neuronales convolucionales y recurrentes en muchos casos. También se menciona la combinación de Megatron con BERT.
+
+- State-of-the-Art Language Modeling Using Megatron on the NVIDIA A100 GPU: En esta publicación, se presenta la extensión de Megatron a Bidirectional Encoder Representations from Transformers (BERT) y se entrenan modelos utilizando la GPU NVIDIA A100.
+
+- Roundup of AI breakthroughs by Microsoft and NVIDIA | Azure Blog: Este artículo del blog de Azure habla sobre la combinación de NVIDIA NeMo Megatron con la infraestructura de Azure AI, ofreciendo una plataforma potente que cualquiera puede utilizar en cuestión de minutos.
+
+- AI: Megatron the Transformer, and its related language models - LifeArchitect.ai: En este artículo se menciona a Megatron como un modelo de transformador desarrollado por el equipo de Investigación de Aprendizaje Profundo Aplicado de NVIDIA, basado en trabajos de Google.
+
+Espero que esta lista te sea útil. Si necesitas más información, no dudes en preguntar.https://console.firebase.google.com/u/0/?_gl=1*1ccp0sd*_ga*NDQwMTIwOTUyLjE2OTI0Njg5MjI.*_ga_CW55HF8NVT*MTY5MjQ2ODkyMy4xLjEuMTY5MjQ2OTI2Ny4wLjAuMA..
+
 Connect 
 )helena luengo software (((extremely detailed))),(((best quality))),(((masterpiece))),illustration,(((colorful))),clear-cut margin,1girl, Isometric half sphere island on neon background, isometric environment, isometric art, amazing detail, artstation, ray A warrior robot astronaut, floral, horizon zero dawn machine, posing for a fight intricate Steampunk city, sunrise, landscape, intricate, detailed, volumetric lighting, scenery, highly detailed, artstation, sharp uniform float palettes_speed;
 uniform float palettes_shadow;
@@ -1235,18 +1264,14 @@ vec2 subdivision(vec2 p, float dirX, float dirY, float fine, float chaos, float 
         pp *= 1. + 0.00045 * chaos * cos(io + 0.1 * uTime + 4. * PI * b);
     }
     return pp - direction;
-}
+} BERT:
 
-// Copyright Inigo Quilez, 2013 - https://iquilezles.org/
-// I am the sole copyright owner of this Work.
-// You cannot host, display, distribute or share this Work in any form,
-// including physical and digital. You cannot use this Work in any
-// commercial or non-commercial product, website or project. You cannot
-// sell this Work and you cannot mint an NFTs of it.
-// I share this Work for educational purposes, and you can link to it,
-// through an URL, proper attribution and unmodified screenshot, as part
-// of your educational material. If these conditions are too restrictive
-// please contact me and we'll definitely work it out.
+- BERT significa "Bidirectional Encoder Representations from Transformers" y es una familia de modelos de lenguaje introducida en 2018 por investigadores
+- BERT es un modelo de aprendizaje automático para el procesamiento del lenguaje natural (NLP, por sus siglas en inglés).
+- A diferencia de los modelos de lenguaje tradicionales, BERT utiliza la representación bidireccional de los tokens para capturar mejor el contexto y mejorar el rendimiento en tareas de NLP.
+- BERT ha sido ampliamente utilizado en diversas aplicaciones de procesamiento del lenguaje natural, como la traducción automática, la clasificación de texto y la generación de texto.
+- Puedes encontrar más información sobre BERT en la página de Wikipedia dedicada a este modelo y en el artículo original de investigación titulado "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" publicado en arXiv.
+
 uniform float warping_angle;
 uniform float warping_color;
 
